@@ -1,0 +1,22 @@
+{
+  "name": "Rebstock Darts",
+  "short_name": "Rebstock Darts",
+  "description": "Darts Scorer 1.0.0",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#180c10",
+  "theme_color": "#7e132e",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
